@@ -1,0 +1,11 @@
+{
+	"name": "ETH Token",
+	"website": "http://www.yunwuxian.net/",
+	"description": "NFT 代币",
+	"explorer": "https://hecoinfo.com/token/0x1984d13d2bd4468f12d0a60af989bcb327dead63",
+	"type": "HRC20",
+	"symbol": "ETH",
+	"decimals": 16,
+	"status": "active",
+	"id": "0x1984d13d2bd4468f12d0a60af989bcb327dead63"
+}
